@@ -31,5 +31,8 @@ Note: It can broke something or make something disappear on a webpage. I will no
 <br>
 <br>
 It is super efficient in blocking Frames, so use it correctly. Also, it can block video embeds like YouTube.
+<br>
+<br>
+Special Note: This is an adblocker filter, so there is no "Whitelist" or Blacklist".
 
 
