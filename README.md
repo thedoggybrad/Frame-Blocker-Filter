@@ -27,6 +27,6 @@ Choose the 3rd Party one if you want just to block Frames from other websites.
 Choose All if you want to block all Frames
 <br>
 <br>
-Note: It can broke something or make something disappear on a webpage. I will not be liable in case of using this filter and then it will make an undesirable effect.
+Note: It can broke something or make something disappear on a webpage. I will not be liable in case of using this filter due to an undesirable effect.
 
 
