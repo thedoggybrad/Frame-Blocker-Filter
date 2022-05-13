@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: 3rd Party Frames Blocker
+! Expires: 1 days (update frequency)
+! Description: No mercy for 3rd Frames
+! Homepage: https://github.com/thedoggybrad/Iframe-Blocker-Filter
+!
+*$subdocument,third-party
