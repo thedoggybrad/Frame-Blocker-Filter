@@ -1,5 +1,5 @@
 # Frame-Blocker-Filter
-You can block third party frames and all frames. It can block Iframes and anything similar, like scripts or any other methods for embed.
+You can block third party frames and all frames. It can block Iframes and anything similar, like scripts or any other methods for embed. It can block all the things referred to "subdocuments" or frames.
 <br>
 <br>
 3rd Party only Frame Blocking
