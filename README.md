@@ -10,6 +10,7 @@ Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercon
 <br>
 <br>
 All Frame Blocking
+<br>
 Raw: https://raw.githubusercontent.com/thedoggybrad/Iframe-Blocker-Filter/main/All.txt
 <br>
 Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Iframe-Blocker-Filter/main/All.txt
