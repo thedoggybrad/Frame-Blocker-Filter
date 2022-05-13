@@ -5,11 +5,13 @@ You can block third party frames and all frames. It can block Iframes and anythi
 3rd Party only Frame Blocking
 <br>
 Raw: https://raw.githubusercontent.com/thedoggybrad/Iframe-Blocker-Filter/main/3rdParty.txt
+<br>
 Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Iframe-Blocker-Filter/main/3rdParty.txt
 <br>
 <br>
 All Frame Blocking
 Raw: https://raw.githubusercontent.com/thedoggybrad/Iframe-Blocker-Filter/main/All.txt
+<br>
 Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Iframe-Blocker-Filter/main/All.txt
 <br>
 <br>
