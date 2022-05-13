@@ -30,6 +30,6 @@ Choose All if you want to block all Frames
 Note: It can broke something or make something disappear on a webpage. I will not be liable in case of using this filter due to an undesirable effect.
 <br>
 <br>
-It is super efficient in blocking Frames, so use it correctly.
+It is super efficient in blocking Frames, so use it correctly. Also, it can block video embeds like YouTube.
 
 
