@@ -1,4 +1,4 @@
-# Iframe-Blocker-Filter
+# Frame-Blocker-Filter
 You can block third party frames and all frames. It can block Iframes and anything similar, like scripts or any other methods for embed.
 <br>
 <br>
@@ -17,7 +17,7 @@ Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercon
 <br>
 <br>
 <br>
-Do you want no Iframes?? that may contain trackers. Use this filters now.
+Do you want no Frames?? that may contain trackers. Use this filters now.
 <br>
 <br>
 What should I choose?
