@@ -3,6 +3,6 @@
 ! Title: All Frames Blocker
 ! Expires: 1 days
 ! Description: No Mercy for all Frames
-! Homepage: https://github.com/thedoggybrad/Iframe-Blocker-Filter
+! Homepage: https://github.com/thedoggybrad/Frame-Blocker-Filter
 !
 *$subdocument
