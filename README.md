@@ -17,7 +17,7 @@ Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercon
 <br>
 <br>
 <br>
-Do you want no Frames?? that may contain trackers. Use this filters now.
+Do you want no Frames?? that may contain trackers and even Ads. Use this filters now.
 <br>
 <br>
 What should I choose?
