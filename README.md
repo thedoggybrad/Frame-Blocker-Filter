@@ -1,5 +1,5 @@
 # Iframe-Blocker-Filter
-You can block third party frames and all frames. It can block Iframes and anything similar.
+You can block third party frames and all frames. It can block Iframes and anything similar, like scripts or any other methods for embed.
 <br>
 <br>
 3rd Party only Frame Blocking
@@ -28,5 +28,8 @@ Choose All if you want to block all Frames
 <br>
 <br>
 Note: It can broke something or make something disappear on a webpage. I will not be liable in case of using this filter due to an undesirable effect.
+<br>
+<br>
+It is super efficient in blocking Frames, so use it correctly.
 
 
