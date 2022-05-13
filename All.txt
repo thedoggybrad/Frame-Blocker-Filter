@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: All Frames Blocker
+! Expires: 1 days (update frequency)
+! Description: No Mercy for all Frames
+! Homepage: https://github.com/thedoggybrad/Iframe-Blocker-Filter
+!
+*$subdocument
