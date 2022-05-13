@@ -3,6 +3,6 @@
 ! Title: 3rd Party Frames Blocker
 ! Expires: 1 days
 ! Description: No mercy for 3rd Party Frames
-! Homepage: https://github.com/thedoggybrad/Iframe-Blocker-Filter
+! Homepage: https://github.com/thedoggybrad/Frame-Blocker-Filter
 !
 *$subdocument,third-party
