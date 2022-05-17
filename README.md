@@ -16,6 +16,13 @@ Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/go
 Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
 <br>
+3rd Party only Frame Blocking with Social Media exceptions
+<br>
+Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
+<br>
+Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/social-exception.txt
+<br>
+<br>
 All Frame Blocking
 <br>
 Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
