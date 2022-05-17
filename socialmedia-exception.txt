@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: 3rd Party Frames Blocker with Social Media Exceptions
+! Expires: 1 days
+! Description: No mercy for 3rd Party Frames except for common Social Media sites.
+! Homepage: https://github.com/thedoggybrad/Frame-Blocker-Filter
+!
+*$subdocument,third-party,domain=~facebook.com|~instagram.com|~meta.com|~twitter.com|~youtube.com|~tiktok.com|~pinterest.com|~reddit.com|~quora.com|~linkedin.com|~tumblr.com|~flickr.com|~vimeo.com
