@@ -5,6 +5,7 @@ You can block third party frames and all frames. It can block Iframes and anythi
 Notice: If you want just to block unessential frames, then visit this bigger variant of this filter https://github.com/thedoggybrad/Non-Essential-Frames-Blocker
 <br>
 <br>
+<br>
 3rd Party only Frame Blocking
 <br>
 Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
