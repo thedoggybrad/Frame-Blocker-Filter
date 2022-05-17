@@ -36,13 +36,13 @@ Do you want no Frames?? that may contain trackers and even Ads. Use this filters
 <br>
 What should I choose?
 <br>
-Choose the 3rd Party one if you want just to block Frames from other websites.
+*Choose the 3rd Party one if you want just to block Frames from other websites.
 <br>
-Choose All if you want to block all Frames
+*Choose All if you want to block all Frames
 <br>
-Choose the 3rd party with Google and YouTube execptions if you need Google Maps, Forms and YouTube in Frame form.
+*Choose the 3rd party with Google and YouTube execptions if you need Google Maps, Forms and YouTube in Frame form.
 <br>
-Choose the 3rd party with Social Media exceptions if you want all social media sites to be displayed in frame form.
+*Choose the 3rd party with Social Media exceptions if you want all social media sites to be displayed in frame form.
 <br>
 <br>
 Note: It can broke something or make something disappear on a webpage. I will not be liable in case of using this filter due to an undesirable effect.
