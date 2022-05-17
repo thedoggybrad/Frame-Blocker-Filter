@@ -2,7 +2,7 @@
 ! Version: 1.0
 ! Title: All Frames Blocker
 ! Expires: 1 days
-! Description: No Mercy for all Frames
+! Description: No Mercy for all Frames.
 ! Homepage: https://github.com/thedoggybrad/Frame-Blocker-Filter
 !
 *$subdocument
