@@ -9,11 +9,11 @@ Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3r
 Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
 <br>
 <br>
-3rd Party only Frame Blocking with Google and YouTube execptions
+3rd Party only Frame Blocking with Google and YouTube exceptions
 <br>
-Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-execption.txt
+Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
-Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-execption.txt
+Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
 <br>
 All Frame Blocking
