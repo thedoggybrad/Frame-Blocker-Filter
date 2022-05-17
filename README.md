@@ -33,6 +33,8 @@ Choose the 3rd Party one if you want just to block Frames from other websites.
 <br>
 Choose All if you want to block all Frames
 <br>
+Choose the 3rd party with Google and YouTube execptions if you need Google Maps, Forms and YouTube.
+<br>
 <br>
 Note: It can broke something or make something disappear on a webpage. I will not be liable in case of using this filter due to an undesirable effect.
 <br>
