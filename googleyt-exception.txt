@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 1.0
+! Version: 1.1
 ! Title: 3rd Party Frames Blocker with Google Execptions
 ! Expires: 1 days
 ! Description: No mercy for 3rd Party Frames except Google and YouTube Frames.
 ! Homepage: https://github.com/thedoggybrad/Frame-Blocker-Filter
 !
-*$subdocument,third-party,domain=~youtube.com|~google.com
+*$subdocument,third-party,domain=~youtube.com|~google.com|~goo.gl
