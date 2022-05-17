@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1.1
+! Version: 1.2
 ! Title: 3rd Party Frames Blocker with Google and YouTube Execptions
 ! Expires: 1 days
 ! Description: No mercy for 3rd Party Frames except Google and YouTube Frames.
