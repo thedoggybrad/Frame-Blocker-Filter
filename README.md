@@ -5,30 +5,30 @@ You can block third party frames and all frames. It can block Iframes and anythi
 <br>
 3rd Party only Frame Blocking (Blocks 3rd Party Sites' Frames)
 <br>
-Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
+*Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
 <br>
-Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
+*Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
 <br>
 <br>
 3rd Party only Frame Blocking with Google and YouTube exceptions (Blocks 3rd Party Sites' Frames except Google and YouTube)
 <br>
-Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
+*Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
-Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
+*Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
 <br>
 3rd Party only Frame Blocking with Social Media exceptions (Blocks 3rd Party Sites' Frames except common Social Media sites)
 <br>
-Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
+*Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
 <br>
-Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/social-exception.txt
+*Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/social-exception.txt
 <br>
 <br>
 All Frame Blocking (Blocks all Frames)
 <br>
-Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
+*Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
 <br>
-Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
+*Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
 <br>
 <br>
 <br>
