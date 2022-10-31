@@ -2,7 +2,7 @@
 You can block third party frames and all frames. It can block Iframes and anything similar, like scripts or any other methods for embed. It can block all the things referred to "subdocuments" or frames. Never use two or more variations of this filter at a time, that may cause a conflict and may not unblock/block whatever you want to.
 <br>
 <br>
-Designed for: AdBlock Plus and compatible adblockers
+Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBlock and etc.)
 <br>
 <br>
 <br>
