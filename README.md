@@ -35,7 +35,7 @@ All Frame Blocking (Blocks all Frames)
 <br>
 <br>
 <br>
-Do you want no Frames?? that may contain trackers and even Ads. Use one of the variations of this filter right now.
+Do you want no Frames??, like Iframes, Javascript frames and HTML frames that may contain trackers and even Ads. Use one of the variations of this filter right now.
 <br>
 <br>
 Note: It can broke something or make something disappear on a webpage. I (thedoggybrad) will not be liable in case of using this filter due to an undesirable effect (ISC License).
