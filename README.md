@@ -35,18 +35,7 @@ Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercon
 Do you want no Frames?? that may contain trackers and even Ads. Use one of the variations of this filter right now.
 <br>
 <br>
-What should I choose?
-<br>
-*Choose the 3rd Party one if you want just to block Frames from other websites.
-<br>
-*Choose All if you want to block all Frames
-<br>
-*Choose the 3rd party with Google and YouTube execptions if you need Google Maps, Forms and YouTube in Frame form.
-<br>
-*Choose the 3rd party with Social Media exceptions if you want all social media sites to be displayed in frame form.
-<br>
-<br>
-Note: It can broke something or make something disappear on a webpage. I (thedoggybrad) will not be liable in case of using this filter due to an undesirable effect.
+Note: It can broke something or make something disappear on a webpage. I (thedoggybrad) will not be liable in case of using this filter due to an undesirable effect (ISC License).
 <br>
 <br>
 It is super efficient in blocking Frames, so use it correctly. Also, it can block video embeds like YouTube and Facebook.
