@@ -20,7 +20,7 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 *Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
 <br>
-3rd Party only Frame Blocking with Social Media exceptions (Blocks 3rd Party Sites' Frames except common Social Media sites)
+3rd Party only Frame Blocking with Social Media exceptions (Blocks 3rd Party Sites' Frames except common Social Media sites and Google)
 <br>
 *Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
 <br>
