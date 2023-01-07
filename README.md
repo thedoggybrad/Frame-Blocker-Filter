@@ -30,6 +30,8 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 <br>
 *Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/social-exception.txt
 <br>
+*jsDelivr CDN: https://cdn.jsdelivr.net/gh/thedoggybrad/Frame-Blocker-Filter@main/socialmedia-exception.txt
+<br>
 <br>
 All Frame Blocking (Blocks all Frames)
 <br>
