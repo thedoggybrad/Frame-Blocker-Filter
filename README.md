@@ -12,6 +12,8 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 <br>
 *Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
 <br>
+*jsDelivr CDN: https://cdn.jsdelivr.net/gh/thedoggybrad/Frame-Blocker-Filter@main/3rdParty.txt
+<br>
 <br>
 3rd Party only Frame Blocking with Google and YouTube exceptions (Blocks 3rd Party Sites' Frames except Google and YouTube)
 <br>
