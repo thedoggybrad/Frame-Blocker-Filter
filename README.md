@@ -29,6 +29,8 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 <br>
 •Githack CDN: https://raw.githack.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
+•Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
+<br>
 <br>
 3rd Party only Frame Blocking with Social Media exceptions (Blocks 3rd Party Sites' Frames except common Social Media sites and Google)
 <br>
