@@ -47,6 +47,8 @@ All Frame Blocking (Blocks all Frames)
 <br>
 •jsDelivr CDN: https://cdn.jsdelivr.net/gh/thedoggybrad/Frame-Blocker-Filter@main/All.txt
 <br>
+•Githack CDN: https://raw.githack.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
+<br>
 <br>
 <br>
 Do you want no Frames??, like Iframes, Javascript frames and HTML frames that may contain trackers and even Ads. Use one of the variations of this filter right now.
