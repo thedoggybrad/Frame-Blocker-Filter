@@ -1,5 +1,5 @@
 ## Important !!!
-This project is now in legacy mode. It means that this project will be update but only to fix problems (such as bugs).
+This project is now in legacy mode. It means that this project will be updated but only to fix problems (such as bugs) and not to add more features/variations.
 
 # Frame Blocker Filter
 You can block third party frames and all frames. It can block Iframes and anything similar, like scripts or any other methods for embed. It can block all the things referred to "subdocuments" or frames. Never use two or more variations of this filter at a time, that may cause a conflict and may not unblock/block whatever you want to.
