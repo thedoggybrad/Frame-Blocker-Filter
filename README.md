@@ -90,7 +90,7 @@ This section is just an additional information about those options. Since not al
 ## How to add an adblock filter? (also applies to this filter)
 This section is for those who does not know how to use their adblock.
 <br>
-If you want to make your lives easier, please use the subscribe link and click OK/Confirm to easily ass this filter.
+If you want to make your lives easier, please use the subscribe link and click OK/Confirm to easily add this filter.
 <br>
 <br>
 ✓AdBlock (getadblock.com)
