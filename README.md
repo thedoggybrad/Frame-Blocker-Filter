@@ -140,6 +140,16 @@ If you want to make your lives easier, please use the subscribe link and click O
 5.) Click Add.
 <br>
 <br>
+✓Vivaldi Browser's built-in Adblocking
+<br>
+Go to Settings > Privacy > Tracker and Ad Blocking > Manage Sources to add this filterlist
+<br>
+<br>
+✓Opera Browser's built-in Adblocking
+<br>
+Go to opera://settings/adblocker-lists/ and click Manage Lists and paste it on the add site box and click "Done".
+<br>
+<br>
 ✓Other AdBlock Plus compatible adblock extensions (General Instructions)
 <br>
 •Try to search on your trusted search engine this phrase "How to add a custom filter list on {Adblock Extension Name}?", and follow the given instructions by the search result.
@@ -206,3 +216,9 @@ Note: I have just listed the popular and compatible adblockers for this filterli
 ✓Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/ndcileolkflehcjpmjnfbnaibdcgglog
 <br>
 ✓Safari: https://apps.apple.com/us/app/adblock-for-safari/id1402042596?ls=1&mt=12
+<br>
+<br>
+•Opera with adblocking: https://www.opera.com/download
+<br>
+<br>
+•Vivaldi with adblocking: https://vivaldi.com/download/
