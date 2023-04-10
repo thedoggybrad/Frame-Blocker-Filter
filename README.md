@@ -125,7 +125,7 @@ If you want to make your lives easier, please use the subscribe link and click O
 <br>
 3.) Select the Advanced tab and scroll to the My filter list section.
 <br>
-4.)Paste your custom filter list into the box.
+4.) Paste your custom filter list into the box.
 <br>
 5.) Click Add.
 <br>
