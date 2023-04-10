@@ -3,9 +3,8 @@ You can block third party frames and all frames. It can block Iframes and anythi
 <br>
 <br>
 Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBlock and etc.)
-
-## 3rd Party only Frame Blocking (Blocks 3rd Party Sites' Frames)
 <br>
+## 3rd Party only Frame Blocking (Blocks 3rd Party Sites' Frames)
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
 <br>
 •Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
@@ -17,9 +16,8 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 •Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
 <br>
 •Frame Blocker Filter's CDN: https://cdn-frameblockerfilter.pages.dev/3rdParty.txt
-
-## 3rd Party only Frame Blocking with Google and YouTube exceptions (Blocks 3rd Party Sites' Frames except Google and YouTube)
 <br>
+## 3rd Party only Frame Blocking with Google and YouTube exceptions (Blocks 3rd Party Sites' Frames except Google and YouTube)
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
 •Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
@@ -31,9 +29,8 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 •Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
 •Frame Blocker Filter's CDN: https://cdn-frameblockerfilter.pages.dev/googleyt-exception.txt
-
-## 3rd Party only Frame Blocking with Social Media exceptions (Blocks 3rd Party Sites' Frames except common Social Media sites and Google)
 <br>
+## 3rd Party only Frame Blocking with Social Media exceptions (Blocks 3rd Party Sites' Frames except common Social Media sites and Google)
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
 <br>
 •Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/social-exception.txt
@@ -45,9 +42,8 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 •Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
 <br>
 •Frame Blocker Filter's CDN: https://cdn-frameblockerfilter.pages.dev/socialmedia-exception.txt
-
-## All Frames Blocking (Blocks all Frames)
 <br>
+## All Frames Blocking (Blocks all Frames)
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
 <br>
 •Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
