@@ -160,8 +160,8 @@ Go to opera://settings/adblocker-lists/ and click Manage Lists and paste it on t
 <br>
 •Try to experiment on your adblock by clicking the extension icon and attempt to find the word "settings" or "configuration" and find the settings icon and click there. Then, attempt to find the keyword "filters" or "custom filters". If there is no option in the extension's box, go to your extension's configuration (In Chrome it is chrome://extensions) and go ahead and enter the details or options and access the extension's configurations or options and try searching the keywords mentioned earlier. Once, you are in the custom filters, go ahead and find the keywords "add" or "new" and paste the link there and click "save", "create" or "new". Enable the new custom filterlist you added if that is disabled by default when added.
 
-## Adblock Extensions Download Link
-Disclaimer: TheDoggyBrad is not affiliated nor connected nor promoting this adblockers. This links and names are just there because not all the people wanting to use this filter have their adblockers already installed.
+## Adblock Extensions and Browser Download Link
+Disclaimer: TheDoggyBrad is not affiliated nor connected nor promoting this adblocker extensions and browsers. This links and names are just there because not all the people wanting to use this filter have their adblockers already installed.
 <br>
 Note: I have just listed the popular and compatible adblockers for this filterlist.
 <br>
