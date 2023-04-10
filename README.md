@@ -77,4 +77,12 @@ This section is just an additional information about those options. Since not al
 <br>
 •Subscribe- This is a easy to use link that automatically adds this adblock filter to your Adblock Plus compatible adblock extension. It uses the raw file in GitHub
 <br>
-•CDNs - It stands for Content Delivery Network and they are used to distribute a file or an entire website to multiple people, location and devices with the help of a cache (copy of the file in other servers) and that cache is stored on multiple servers by the CDN provider.
+•CDNs - It stands for Content Delivery Network and they are used to distribute a file or an entire website faster to multiple people, location and devices with the help of a cache (copy of the file in other servers) and that cache is stored on multiple servers by the CDN provider.
+<br>
+✓jsDelivr CDN - It is a public content delivery network, designed for open-source projects like this one. It is powered by multiple CDN and DNS providers (including CloudFlare CDN, Fastly CDN, NS1 DNS, GCore CDN, Bunny.NET CDN, Render API, Digital Ocean service and many more).
+<br>
+✓GitHack CDN - It is an another public content delivery network, but only powered by CloudFlare CDN.
+<br>
+✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare amd Bunny.NET.
+<br>
+✓Frame Blocker Filter's CDN - It is a personalized content delivery network, designed only for use in this project (Frame Blocker Filter). It is powered by CloudFlare Pages, and distributed on the CloudFlare CDN.
