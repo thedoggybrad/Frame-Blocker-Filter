@@ -130,3 +130,5 @@ If you want to make your lives easier, please use the subscribe link and click O
 5.) Click Add.
 <br>
 <br>
+✓Other AdBlock Plus compatible adblocks
+Try to search on your trusted search engine this phrase "How to add a custom filter list on {Adblock Extension Name}?"
