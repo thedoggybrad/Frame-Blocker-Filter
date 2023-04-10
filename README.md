@@ -102,4 +102,18 @@ If you want to make your lives easier, please use the subscribe link and click O
 3.) Click Subscribe and wait for AdBlock to fetch the filters.
 <br>
 <br>
+✓UBlock Origin and UBlock
+1.) Navigate to the uBlock Origin settings by clicking the settings button, when clicking the extension icon.
+<br>
+2.) Select the "Filter lists" tab.
+<br>
+3.) Scroll to the "Custom" section, at the bottom.
+<br>
+4.) Select "Import...".
+<br>
+5.) Paste the link of the filter.
+<br>
+6.) Select "Apply changes" at the top of the page.
+<br>
+<br>
  
