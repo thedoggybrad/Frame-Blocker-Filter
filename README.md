@@ -98,7 +98,7 @@ This section is just an additional information about those options. Since not al
 ✓Frame Blocker Filter's CDN - It is a personalized content delivery network, designed only for use in this project (Frame Blocker Filter). It is powered by CloudFlare Pages, secured by CloudFlare and is distributed on the CloudFlare's super fast distribution system. It is the one we are recommend to use, as this is super reliable.
 
 ## How to add an adblock filter? (also applies to this filter)
-This section is for those who does not know how to use their adblock.
+This section is for those who does not know how to use their adblock. The Instructions given below are only for those popular adblockers, for other adblockers you may follow the General Instruction given below.
 <br>
 If you want to make your lives easier, please use the subscribe link and click OK/Confirm to easily add this filter.
 <br>
@@ -140,7 +140,7 @@ If you want to make your lives easier, please use the subscribe link and click O
 5.) Click Add.
 <br>
 <br>
-✓Other AdBlock Plus compatible adblock extensions
+✓Other AdBlock Plus compatible adblock extensions (General Instructions)
 <br>
 •Try to search on your trusted search engine this phrase "How to add a custom filter list on {Adblock Extension Name}?", and follow the given instructions by the search result.
 <br>
