@@ -166,6 +166,8 @@ Note: I have just listed the popular and compatible adblockers for this filterli
 <br>
 ✓Opera: https://addons.opera.com/en/extensions/details/adblock-plus/
 <br>
+✓Safari: https://apps.apple.com/us/app/adblock-for-safari/id1402042596?ls=1&mt=12
+<br>
 <br>
 •UBlock Origin
 <br>
@@ -179,6 +181,8 @@ Note: I have just listed the popular and compatible adblockers for this filterli
 <br>
 ✓Opera: https://addons.opera.com/en/extensions/details/ublock/
 <br>
+✓Safari: No Extension Available
+<br>
 <br>
 •UBlock
 <br>
@@ -186,6 +190,19 @@ Note: I have just listed the popular and compatible adblockers for this filterli
 <br>
 ✓Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/ublock/nffknjpglkklphnibdiadeeeeailfnog
 <br>
-✓Waterfox (Limited Chromium Extensions Support): https://chrome.google.com/webstore/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn
+✓Waterfox (Limited Functionality): https://chrome.google.com/webstore/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn
 <br>
-✓Firefox and LibreWolf: No Extensions Available
+✓Firefox and LibreWolf: No Extension Available
+<br>
+✓Safari: No Extension Available
+<br>
+<br>
+•AdBlock (getadblock.com)
+<br>
+✓Chrome, Chromium, Brave and Opera: https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom
+<br>
+✓Firefox, LibreWolf and Waterfox: https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox/
+<br>
+✓Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/ndcileolkflehcjpmjnfbnaibdcgglog
+<br>
+✓Safari: https://apps.apple.com/us/app/adblock-for-safari/id1402042596?ls=1&mt=12
