@@ -153,16 +153,28 @@ If you want to make your lives easier, please use the subscribe link and click O
 ## Adblock Extensions Download Link
 Disclaimer: TheDoggyBrad is not affiliated nor connected nor promoting this adblockers. This links and names are just there because not all the people wanting to use this filter have their adblockers already installed.
 <br>
+Note: I have just listed the popular and compatible adblockers for this filterlist.
+<br>
 <br>
 •Adblock Plus
 <br>
 ✓Chrome, Chromium and Brave: https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb
 <br>
-✓Firefox and Waterfox: https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
+✓Firefox, LibreWolf and Waterfox: https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
 <br>
 ✓Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/adblock-plus-free-ad-bl/gmgoamodcdcjnbaobigkjelfplakmdhh
 <br>
 ✓Opera: https://addons.opera.com/en/extensions/details/adblock-plus/
 <br>
 <br>
-•
+•UBlock Origin
+✓Chrome, Chromium and Brave: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
+<br>
+✓Firefox, LibreWolf and Waterfox: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+<br>
+✓Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
+<br>
+✓Opera: https://addons.opera.com/en/extensions/details/ublock/
+<br>
+<br>
+•UBlock
