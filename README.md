@@ -40,7 +40,7 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 <br>
 •Githack CDN: https://raw.githack.com/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
 <br>
-•Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/staticallycdnspecialink/socialmedia-exception.txt
+•Statically CDN (Temporary Link): https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/e62017c5f8158b586c27f0b60cd4d83216f63566/socialmedia-exception.txt
 <br>
 •Frame Blocker Filter's CDN (Recommended): https://cdn-frameblockerfilter.pages.dev/socialmedia-exception.txt
 <br>
