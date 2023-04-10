@@ -130,5 +130,12 @@ If you want to make your lives easier, please use the subscribe link and click O
 5.) Click Add.
 <br>
 <br>
-✓Other AdBlock Plus compatible adblocks
-Try to search on your trusted search engine this phrase "How to add a custom filter list on {Adblock Extension Name}?"
+✓Other AdBlock Plus compatible adblock extensions
+<br>
+•Try to search on your trusted search engine this phrase "How to add a custom filter list on {Adblock Extension Name}?", and follow the given instructions by the search result.
+<br>
+•Try to visit the support page or forum of your Adblock extension and see if there is a guide about adding custom filterlists on your Adblock extension and follow the instructions if any.
+<br>
+•Try to ask someone on a forum like Reddit and Quora and even in your AdBlock's official forum (if a guide does not exist) and follow the instructions if someone has responded to you.
+<br>
+•Try to experiment on your adblock by clicking the extension icon and attempt to find the word "settings" or "configuration" and find the settings icon and click there. Then, attempt to find the keyword "filters" or "custom filters". If there is no option in the extension's box, go to your extension's configuration (In Chrome it is chrome://extensions) and go ahead and enter the details or options and access the extension's configurations or options and try searching the keywords mentioned earlier.
