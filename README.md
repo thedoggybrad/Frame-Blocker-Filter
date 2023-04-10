@@ -16,7 +16,7 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 <br>
 •Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
 <br>
-•Frame Blocker Filter's CDN: https://cdn-frameblockerfilter.pages.dev/3rdParty.txt
+•Frame Blocker Filter's CDN (Recommended): https://cdn-frameblockerfilter.pages.dev/3rdParty.txt
 <br>
 ## 3rd Party only Frame Blocking with Google and YouTube exceptions (Blocks 3rd Party Sites' Frames except Google and YouTube)
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
@@ -29,7 +29,7 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 <br>
 •Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
-•Frame Blocker Filter's CDN: https://cdn-frameblockerfilter.pages.dev/googleyt-exception.txt
+•Frame Blocker Filter's CDN (Recommended): https://cdn-frameblockerfilter.pages.dev/googleyt-exception.txt
 <br>
 ## 3rd Party only Frame Blocking with Social Media exceptions (Blocks 3rd Party Sites' Frames except common Social Media sites and Google)
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
@@ -42,7 +42,7 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 <br>
 •Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
 <br>
-•Frame Blocker Filter's CDN: https://cdn-frameblockerfilter.pages.dev/socialmedia-exception.txt
+•Frame Blocker Filter's CDN (Recommended): https://cdn-frameblockerfilter.pages.dev/socialmedia-exception.txt
 <br>
 ## All Frames Blocking (Blocks all Frames)
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
@@ -55,7 +55,7 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 <br>
 •Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/All.txt
 <br>
-•Frame Blocker Filter's CDN: https://cdn-frameblockerfilter.pages.dev/All.txt
+•Frame Blocker Filter's CDN (Recommended): https://cdn-frameblockerfilter.pages.dev/All.txt
 <br>
 ## More About Frame Blocker Filter
 Do you want no Frames??, like Iframes, Javascript frames and HTML frames that may contain trackers and even Ads. Use one of the variations of this filter right now.
@@ -85,4 +85,4 @@ This section is just an additional information about those options. Since not al
 <br>
 ✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare amd Bunny.NET.
 <br>
-✓Frame Blocker Filter's CDN - It is a personalized content delivery network, designed only for use in this project (Frame Blocker Filter). It is powered by CloudFlare Pages, and distributed on the CloudFlare CDN.
+✓Frame Blocker Filter's CDN - It is a personalized content delivery network, designed only for use in this project (Frame Blocker Filter). It is powered by CloudFlare Pages, secured by CloudFlare and is distributed on the CloudFlare's super fast distribution system. It is the one we are recommend to use, as this is super reliable.
