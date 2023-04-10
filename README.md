@@ -42,7 +42,7 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 <br>
 •Statically CDN (Outdated): https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
 <br>
-•Frame Blocker Filter's CDN (Outdated/Recommended): https://cdn-frameblockerfilter.pages.dev/socialmedia-exception.txt
+•Frame Blocker Filter's CDN (Recommended): https://cdn-frameblockerfilter.pages.dev/socialmedia-exception.txt
 <br>
 ## All Frames Blocking (Blocks all Frames)
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
