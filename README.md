@@ -6,7 +6,7 @@ You can block third party frames and all frames. It can block Iframes and anythi
 Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBlock and etc.)
 <br>
 ## 3rd Party only Frame Blocking (Blocks 3rd Party Sites' Frames)
-This is the one I can recommend to everyone wanting a good privacy, as it blocks everything that is 3rd party only.
+This is the one I can recommend to everyone wanting a good privacy, as it blocks everything that is 3rd party only with zero exceptions.
 <br>
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
 <br>
@@ -21,6 +21,8 @@ This is the one I can recommend to everyone wanting a good privacy, as it blocks
 •Frame Blocker Filter's CDN (Recommended): https://cdn-frameblockerfilter.pages.dev/3rdParty.txt
 <br>
 ## 3rd Party only Frame Blocking with Google and YouTube exceptions (Blocks 3rd Party Sites' Frames except Google and YouTube)
+If you are a privacy guy but still a fan of Google and YouTube, well consider using this one instead.
+<br>
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
 •Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
@@ -34,6 +36,8 @@ This is the one I can recommend to everyone wanting a good privacy, as it blocks
 •Frame Blocker Filter's CDN (Recommended): https://cdn-frameblockerfilter.pages.dev/googleyt-exception.txt
 <br>
 ## 3rd Party only Frame Blocking with Social Media exceptions (Blocks 3rd Party Sites' Frames except common Social Media sites and Google)
+If you are really a fan of the common social media sites but wants to maintain privacy on other non-google or non-social media sites, well use this one.
+<br>
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
 <br>
 •Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/social-exception.txt
@@ -47,6 +51,10 @@ This is the one I can recommend to everyone wanting a good privacy, as it blocks
 •Frame Blocker Filter's CDN (Recommended): https://cdn-frameblockerfilter.pages.dev/socialmedia-exception.txt
 <br>
 ## All Frames Blocking (Blocks all Frames)
+This filter is so strong that it gives more than privacy. More than Privacy means that even non-tracking or non-3rd party frames will be blocked.
+<br>
+Please just note that even "basic" functions of a website may disappear.
+<br>
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
 <br>
 •Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
