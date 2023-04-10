@@ -88,7 +88,7 @@ This section is just an additional information about those options. Since not al
 ✓Frame Blocker Filter's CDN - It is a personalized content delivery network, designed only for use in this project (Frame Blocker Filter). It is powered by CloudFlare Pages, secured by CloudFlare and is distributed on the CloudFlare's super fast distribution system. It is the one we are recommend to use, as this is super reliable.
 
 ## How to add an adblock filter? (also applies to this filter)
-This section is for those who does not know how to use their adblock. I try to cover as many of them, but I cannot cover them all.
+This section is for those who does not know how to use their adblock.
 <br>
 If you want to make your lives easier, please use the subscribe link and click OK/Confirm to easily ass this filter.
 <br>
