@@ -18,6 +18,8 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 <br>
 •Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
 <br>
+•Frame Blocker Filter's CDN: https://cdn-frameblockerfilter.pages.dev/3rdParty.txt
+<br>
 <br>
 3rd Party only Frame Blocking with Google and YouTube exceptions (Blocks 3rd Party Sites' Frames except Google and YouTube)
 <br>
@@ -30,6 +32,8 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 •Githack CDN: https://raw.githack.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
 <br>
 •Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
+<br>
+•Frame Blocker Filter's CDN: https://cdn-frameblockerfilter.pages.dev/googleyt-exception.txt
 <br>
 <br>
 3rd Party only Frame Blocking with Social Media exceptions (Blocks 3rd Party Sites' Frames except common Social Media sites and Google)
@@ -44,6 +48,8 @@ Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBloc
 <br>
 •Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
 <br>
+•Frame Blocker Filter's CDN: https://cdn-frameblockerfilter.pages.dev/socialmedia-exception.txt
+<br>
 <br>
 All Frame Blocking (Blocks all Frames)
 <br>
@@ -56,6 +62,8 @@ All Frame Blocking (Blocks all Frames)
 •Githack CDN: https://raw.githack.com/thedoggybrad/Frame-Blocker-Filter/main/All.txt
 <br>
 •Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/All.txt
+<br>
+•Frame Blocker Filter's CDN: https://cdn-frameblockerfilter.pages.dev/All.txt
 <br>
 <br>
 <br>
