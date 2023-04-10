@@ -95,11 +95,11 @@ If you want to make your lives easier, please use the subscribe link and click O
 <br>
 ✓AdBlock (getadblock.com)
 <br>
-1. Click the AdBlock toolbar icon and then on the gear symbol.
+1.) Click the AdBlock toolbar icon and then on the gear symbol.
 <br>
-2. On the Customize tab, under Custom Filter Lists, paste one of the links provided below in the box containing “enter a URL”
+2.) On the Customize tab, under Custom Filter Lists, paste one of the links provided below in the box containing “enter a URL”
 <br>
-3. Click Subscribe and wait for AdBlock to fetch the filters.
+3.) Click Subscribe and wait for AdBlock to fetch the filters.
 <br>
 <br>
  
