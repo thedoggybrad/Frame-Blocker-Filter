@@ -68,3 +68,12 @@ It is super efficient in blocking Frames, so use it correctly. Also, it can bloc
 <br>
 <br>
 Special Note: This is an adblocker filter only, so there is no "Whitelist" or Blacklist" option. You can just fork this repository and edit the filterlist to apply your own set of rules.
+<br>
+## What is Raw, Subscribe and CDNs?
+This section is just an additional information about those options. Since not all the people know what is those terms.
+<br>
+<br>
+•Raw- It is the original source file, hosted here in GitHub.
+<br>
+•Subscribe- This is a easy to use link that automatically adds this adblock filter to your Adblock Plus compatible adblock extension. It uses the raw file in GitHub
+•CDNs - It stands for Content Delivery Network and they are used to distribute a file or an entire website to multiple people, location and devices with the help of a cache (copy of the file in other servers) and that cache is stored on multiple servers by the CDN provider.
