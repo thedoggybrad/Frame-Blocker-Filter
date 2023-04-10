@@ -103,6 +103,7 @@ If you want to make your lives easier, please use the subscribe link and click O
 <br>
 <br>
 ✓UBlock Origin and UBlock
+<br>
 1.) Navigate to the uBlock Origin settings by clicking the settings button, when clicking the extension icon.
 <br>
 2.) Select the "Filter lists" tab.
@@ -116,4 +117,16 @@ If you want to make your lives easier, please use the subscribe link and click O
 6.) Select "Apply changes" at the top of the page.
 <br>
 <br>
- 
+✓AdBlock Plus
+<br>
+1.) From the browser toolbar, click the Adblock Plus icon and then click the gear icon in the upper-right corner.
+<br>
+2.) The Adblock Plus Settings tab opens.
+<br>
+3.) Select the Advanced tab and scroll to the My filter list section.
+<br>
+4.)Paste your custom filter list into the box.
+<br>
+5.) Click Add.
+<br>
+<br>
