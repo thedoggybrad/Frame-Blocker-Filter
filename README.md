@@ -70,7 +70,7 @@ It is super efficient in blocking Frames, so use it correctly. Also, it can bloc
 Special Note: This is an adblocker filter only, so there is no "Whitelist" or Blacklist" option. You can just fork this repository and edit the filterlist to apply your own set of rules.
 <br>
 ## What is Raw, Subscribe and CDNs?
-This section is just an additional information about those options. Since not all the people know what is those terms.
+This section is just an additional information about those options. Since not all the people know what are those terms.
 <br>
 <br>
 •Raw- It is the original source file, hosted here in GitHub.
@@ -86,3 +86,20 @@ This section is just an additional information about those options. Since not al
 ✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare amd Bunny.NET.
 <br>
 ✓Frame Blocker Filter's CDN - It is a personalized content delivery network, designed only for use in this project (Frame Blocker Filter). It is powered by CloudFlare Pages, secured by CloudFlare and is distributed on the CloudFlare's super fast distribution system. It is the one we are recommend to use, as this is super reliable.
+
+## How to add an adblock filter? (also applies to this filter)
+This section is for those who does not know how to use their adblock. I try to cover as many of them, but I cannot cover them all.
+<br>
+If you want to make your lives easier, please use the subscribe link and click OK/Confirm to easily ass this filter.
+<br>
+<br>
+✓AdBlock (getadblock.com)
+<br>
+1. Click the AdBlock toolbar icon and then on the gear symbol.
+<br>
+2. On the Customize tab, under Custom Filter Lists, paste one of the links provided below in the box containing “enter a URL”
+<br>
+3. Click Subscribe and wait for AdBlock to fetch the filters.
+<br>
+<br>
+ 
