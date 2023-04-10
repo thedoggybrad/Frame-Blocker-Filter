@@ -168,7 +168,10 @@ Note: I have just listed the popular and compatible adblockers for this filterli
 <br>
 <br>
 •UBlock Origin
+<br>
 ✓Chrome, Chromium and Brave: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
+<br>
+✓Chrome, Chromium, Brave, Microsoft Edge and Opera: (Manifest v3 Experimental): https://chrome.google.com/webstore/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh
 <br>
 ✓Firefox, LibreWolf and Waterfox: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 <br>
@@ -178,3 +181,11 @@ Note: I have just listed the popular and compatible adblockers for this filterli
 <br>
 <br>
 •UBlock
+<br>
+✓Chrome, Chromium, Brave and Opera: https://chrome.google.com/webstore/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn
+<br>
+✓Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/ublock/nffknjpglkklphnibdiadeeeeailfnog
+<br>
+✓Waterfox (Limited Chromium Extensions Support): https://chrome.google.com/webstore/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn
+<br>
+✓Firefox and LibreWolf: No Extensions Available
