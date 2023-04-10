@@ -6,6 +6,8 @@ You can block third party frames and all frames. It can block Iframes and anythi
 Designed for: AdBlock Plus and compatible adblockers (like UBlock Origin, AdBlock and etc.)
 <br>
 ## 3rd Party only Frame Blocking (Blocks 3rd Party Sites' Frames)
+This is the one I can recommend to everyone wanting a good privacy, as it blocks everything that is 3rd party only.
+<br>
 •Raw: https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
 <br>
 •Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/3rdParty.txt
