@@ -76,4 +76,5 @@ This section is just an additional information about those options. Since not al
 •Raw- It is the original source file, hosted here in GitHub.
 <br>
 •Subscribe- This is a easy to use link that automatically adds this adblock filter to your Adblock Plus compatible adblock extension. It uses the raw file in GitHub
+<br>
 •CDNs - It stands for Content Delivery Network and they are used to distribute a file or an entire website to multiple people, location and devices with the help of a cache (copy of the file in other servers) and that cache is stored on multiple servers by the CDN provider.
