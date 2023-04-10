@@ -149,3 +149,20 @@ If you want to make your lives easier, please use the subscribe link and click O
 •Try to ask someone on a forum like Reddit and Quora and even in your AdBlock's official forum (if a guide does not exist) and follow the instructions if someone has responded to you.
 <br>
 •Try to experiment on your adblock by clicking the extension icon and attempt to find the word "settings" or "configuration" and find the settings icon and click there. Then, attempt to find the keyword "filters" or "custom filters". If there is no option in the extension's box, go to your extension's configuration (In Chrome it is chrome://extensions) and go ahead and enter the details or options and access the extension's configurations or options and try searching the keywords mentioned earlier. Once, you are in the custom filters, go ahead and find the keywords "add" or "new" and paste the link there and click "save", "create" or "new". Enable the new custom filterlist you added if that is disabled by default when added.
+
+## Adblock Extensions Download Link
+Disclaimer: TheDoggyBrad is not affiliated nor connected nor promoting this adblockers. This links and names are just there because not all the people wanting to use this filter have their adblockers already installed.
+<br>
+<br>
+•Adblock Plus
+<br>
+✓Chrome, Chromium and Brave: https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb
+<br>
+✓Firefox and Waterfox: https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
+<br>
+✓Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/adblock-plus-free-ad-bl/gmgoamodcdcjnbaobigkjelfplakmdhh
+<br>
+✓Opera: https://addons.opera.com/en/extensions/details/adblock-plus/
+<br>
+<br>
+•
