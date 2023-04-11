@@ -46,7 +46,7 @@ If you are really a fan of the common social media sites but wants to maintain p
 <br>
 •Githack CDN: https://raw.githack.com/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
 <br>
-•Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/master/socialmedia-exception.txt
+•Statically CDN: https://cdn.statically.io/gh/thedoggybrad/Frame-Blocker-Filter/main/socialmedia-exception.txt
 <br>
 •Frame Blocker Filter's CDN (Recommended): https://cdn-frameblockerfilter.pages.dev/socialmedia-exception.txt
 <br>
