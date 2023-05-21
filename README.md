@@ -97,6 +97,9 @@ This section is just an additional information about those options. Since not al
 <br>
 ✓Frame Blocker Filter's CDN - It is a personalized content delivery network, designed only for use in this project (Frame Blocker Filter). It is powered by CloudFlare Pages, secured by CloudFlare and is distributed on the CloudFlare's super fast distribution system. It is the one we are recommend to use, as this is super reliable.
 
+## Issues Reporting and Suggestions
+I do not monitor my Github account always but I do monitor my Go Social! email address almost once a day. So, for issues and suggestions be sure to email admin@gosocial.x10.bz
+
 ## How to add an adblock filter? (also applies to this filter)
 This section is for those who does not know how to use their adblock. The Instructions given below are only for those popular adblockers, for other adblockers you may follow the General Instruction given below.
 <br>
