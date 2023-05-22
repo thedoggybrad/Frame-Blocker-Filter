@@ -115,7 +115,7 @@ If you want to make your lives easier, please use the subscribe link and click O
 3.) Click Subscribe and wait for AdBlock to fetch the filters.
 <br>
 <br>
-✓UBlock Origin and UBlock
+✓UBlock Origin
 <br>
 1.) Navigate to the uBlock Origin settings by clicking the settings button, when clicking the extension icon.
 <br>
@@ -193,19 +193,6 @@ Note: I have just listed the popular and compatible adblockers for this filterli
 ✓Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
 <br>
 ✓Opera: https://addons.opera.com/en/extensions/details/ublock/
-<br>
-✓Safari: No Extension Available
-<br>
-<br>
-•UBlock
-<br>
-✓Chrome, Chromium, Brave and Opera: https://chrome.google.com/webstore/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn
-<br>
-✓Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/ublock/nffknjpglkklphnibdiadeeeeailfnog
-<br>
-✓Waterfox (Limited Functionality): https://chrome.google.com/webstore/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn
-<br>
-✓Firefox and LibreWolf: No Extension Available
 <br>
 ✓Safari: No Extension Available
 <br>
