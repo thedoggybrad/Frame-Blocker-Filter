@@ -93,7 +93,7 @@ This section is just an additional information about those options. Since not al
 <br>
 ✓GitHack CDN - It is an another public content delivery network, but only powered by CloudFlare CDN.
 <br>
-✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare amd Bunny.NET.
+✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare and Bunny.NET.
 <br>
 ✓Frame Blocker Filter's CDN - It is a personalized content delivery network, designed only for use in this project (Frame Blocker Filter). It is powered by CloudFlare Pages, secured by CloudFlare and is distributed on the CloudFlare's super fast distribution system. It is the one we are recommend to use, as this is super reliable.
 
