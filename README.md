@@ -153,6 +153,12 @@ Go to Settings > Privacy > Tracker and Ad Blocking > Manage Sources to add this 
 Go to opera://settings/adblocker-lists/ and click Manage Lists and paste it on the add site box and click "Done".
 <br>
 <br>
+✓Brave AdBlock (Brave Browser)
+<br>
+Custom filter list subscriptions are managed in the brave://adblock page.On Desktop, the page can also be accessed through the “Brave Ad Block” menu in the top-right browser hamburger menu, or by right clicking on any page and selecting “Brave > Manage custom filters”. Users can enter the URL of an online filter list using the “Add filter list via URL” button. 
+<br>
+<br>
+
 ✓Other AdBlock Plus compatible adblock extensions (General Instructions)
 <br>
 •Try to search on your trusted search engine this phrase "How to add a custom filter list on {Adblock Extension Name}?", and follow the given instructions by the search result.
@@ -212,3 +218,7 @@ Note: I have just listed the popular and compatible adblockers for this filterli
 <br>
 <br>
 •Vivaldi with adblocking: https://vivaldi.com/download/
+<br>
+<br>
+•Brave Browser with Brave Adblock
+https://brave.com/download/
