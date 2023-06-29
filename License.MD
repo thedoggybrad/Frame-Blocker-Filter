@@ -1,4 +1,4 @@
-Copyright (c) from 2022-2023 TheDoggyBrad and from 2023-Today TheDoggyBrad Software Lab
+Copyright (c) 2022-2023 TheDoggyBrad and Copyright (c) 2023-Today TheDoggyBrad Software Lab
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
