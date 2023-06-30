@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
 ! Title: All Frames Blocker
+! Author: TheDoggyBrad Software Lab
 ! Expires: 1 days
 ! Description: No Mercy for all Frames.
 ! Homepage: https://github.com/thedoggybrad/Frame-Blocker-Filter
