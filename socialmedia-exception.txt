@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 1.1
 ! Title: 3rd Party Frames Blocker with Social Media Exceptions
+! Author: TheDoggyBrad Software Lab
 ! Expires: 1 days
 ! Description: No mercy for 3rd Party Frames except for common Social Media sites and Google.
 ! Homepage: https://github.com/thedoggybrad/Frame-Blocker-Filter
